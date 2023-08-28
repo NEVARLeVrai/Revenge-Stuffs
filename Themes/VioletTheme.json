@@ -1,6 +1,6 @@
 {
     "name": "Violet",
-    "description": "just a theme",
+    "description": "My Goofy Theme",
     "authors": [
         {
             "name": "NEVAR",
@@ -54,7 +54,7 @@
             "#161033"
         ],
         "BACKGROUND_FLOATING": [
-            "#291e5c45"
+            "#120b30cc"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#161033"
@@ -113,9 +113,9 @@
         "PRIMARY_360": "#a39fbf",
         "PRIMARY_400": "#6a58f5",
         "PRIMARY_500": "#291e5c",
-        "PRIMARY_600": "#161033",
+        "PRIMARY_600": "#1b143d",
         "PRIMARY_630": "#291e5c",
-        "PRIMARY_660": "#291e5c",
+        "PRIMARY_660": "#1e1642",
         "PRIMARY_700": "#291e5c",
         "PRIMARY_800": "#161033",
         "PRIMARY_900": "#291e5c",
