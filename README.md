@@ -1,4 +1,4 @@
-# Vendetta Stuffs
+# Revenge Stuffs
 
 My first theme here : https://github.com/NEVARLeVrai/Vendetta-Stuffs/blob/main/Themes/VioletTheme.json
 
